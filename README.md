@@ -26,3 +26,5 @@ The goal is to identify global patterns and better understand how economic indic
 - Exploratory data analysis (EDA)  
 - Data visualization (charts & maps)  
 - Choropleth map representation
+  
+*Created as part of the PV251 course at Masaryk University, developed in collaboration with a classmate.*
